@@ -1,7 +1,7 @@
 <html> 
 <head> 
 </head>
-<script type="text/javascript" src="phaser.min.js"></script>
+<script src="js/phaser.min.js"></script>
 <body>
   <div id="game">
   </div>
